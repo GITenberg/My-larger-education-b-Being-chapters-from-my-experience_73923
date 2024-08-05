@@ -1,0 +1,37 @@
+_repo: My-larger-education-b-Being-chapters-from-my-experience_73923
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Washington, Booker T.
+    alias: Washington, Booker Taliaferro
+    birthdate: 1856
+    deathdate: 1915
+    gutenberg_agent_id: '880'
+    url: http://www.gutenberg.org/2009/agents/880
+    wikipedia: https://en.wikipedia.org/wiki/Booker_T._Washington
+description: ''
+gutenberg_issued: '2024-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73923'
+  lccn: '11029623'
+language: en
+pgterms:marc904: https://archive.org/details/mylargereducatio00wash
+pgterms:marc905: 20180314001334washington
+pgterms:marc906: '1910'
+pgterms:marc907: US
+production_note: Richard Tonsing, Mary Glenn Krause, MFR, and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive)
+publication_note: '  $aNew York :$bDoubleday, Page & Company, $c1910, copyright 1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Washington, Booker T., 1856-1915'
+- !lcsh 'African Americans -- Biography'
+- !lcsh 'Educators -- United States -- Biography'
+- !lcc 'E151'
+- GITenberg
+title: 'My larger education : $b Being chapters from my experience'
+url: http://www.gutenberg.org/ebooks/73923
