@@ -1,5 +1,8 @@
 _repo: My-larger-education-b-Being-chapters-from-my-experience_73923
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73923-h/images/cover.jpg
 creator:
   author:
     agent_name: Washington, Booker T.
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/880
     wikipedia: https://en.wikipedia.org/wiki/Booker_T._Washington
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73923#My-larger-education-b-Being-chapters-from-my-experience
 gutenberg_issued: '2024-06-27'
 gutenberg_type: Text
 identifiers:
